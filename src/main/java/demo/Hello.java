@@ -5,4 +5,9 @@ package demo;
  * @date 2019/11/20 17:01
  */
 public class Hello {
+
+    public static void main(String[] args) {
+        System.err.println("i am hello !");
+    }
+
 }
